@@ -4,6 +4,11 @@
 
 Navigate with ripple animation effect
 
+# support null safety
+now the project support null safety , optimized by *mohammad reza shabani* 
+
+Navigate with ripple animation effect
+
 
 # Usage
 
